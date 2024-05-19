@@ -1,7 +1,7 @@
 [![MasterHead](https://marketplace.canva.com/EAFIddqdjTk/2/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-1PLNOKlL1HU.jpg)](https://maheli2004.io)
 
 <h1 align="center">Hi 👋, I'm Maheli Vidasna</h1>
-<h3 align="center">A passionate frontend developer , UI developer , Software Developer</h3>
+<h3 align="center">A passionate frontend developer , UI developer and Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg5b2tzaTl3cWFkcG8xYnFsanlvM2Jmb2Z0b3p3eXNkajE5MGt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif">
 
 - 🔭 I’m currently working on **" Island-Bites " Web application**
