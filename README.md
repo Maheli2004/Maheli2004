@@ -1,4 +1,4 @@
-[![MasterHead](https://marketplace.canva.com/EAFIddqdjTk/2/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-1PLNOKlL1HU.jpg)](https://maheli2004.io)
+[![MasterHead](https://res.cloudinary.com/dst3j9bao/image/upload/v1717592999/Black_White_Typographic_Personal_Photo_LinkedIn_Banner_1_hmjsty.png)
 
 <h1 align="center">Hi 👋, I'm Maheli Vidasna</h1>
 <h3 align="center">A passionate frontend developer , UI developer and Software Developer</h3>
