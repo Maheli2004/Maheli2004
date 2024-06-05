@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dst3j9bao/image/upload/v1717592999/Black_White_Typographic_Personal_Photo_LinkedIn_Banner_1_hmjsty.png)
+![MasterHead](https://res.cloudinary.com/dst3j9bao/image/upload/v1717592999/Black_White_Typographic_Personal_Photo_LinkedIn_Banner_1_hmjsty.png)
 
 <h1 align="center">Hi 👋, I'm Maheli Vidasna</h1>
 <h3 align="center">A passionate frontend developer , UI developer and Software Developer</h3>
